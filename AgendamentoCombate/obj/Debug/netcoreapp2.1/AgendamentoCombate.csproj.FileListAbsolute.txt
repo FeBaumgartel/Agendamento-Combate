@@ -1,0 +1,14 @@
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\bin\Debug\netcoreapp2.1\AgendamentoCombate.deps.json
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\bin\Debug\netcoreapp2.1\AgendamentoCombate.runtimeconfig.json
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\bin\Debug\netcoreapp2.1\AgendamentoCombate.runtimeconfig.dev.json
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\bin\Debug\netcoreapp2.1\AgendamentoCombate.dll
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.csprojAssemblyReference.cache
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.csproj.CoreCompileInputs.cache
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.RazorAssemblyInfo.cache
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.RazorAssemblyInfo.cs
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.AssemblyInfoInputs.cache
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.AssemblyInfo.cs
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.RazorTargetAssemblyInfo.cache
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\bin\Debug\netcoreapp2.1\AgendamentoCombate.pdb
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.dll
+C:\Users\felipe.baumgartel\source\repos\AgendamentoCombate\AgendamentoCombate\obj\Debug\netcoreapp2.1\AgendamentoCombate.pdb
